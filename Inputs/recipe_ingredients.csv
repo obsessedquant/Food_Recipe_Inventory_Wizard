@@ -1,0 +1,171 @@
+,recipe_name,default_qty,default_uom,ingredient_name
+0,Outrageous Chocolate Chip Cookies,0.5,cup,butter
+1,Outrageous Chocolate Chip Cookies,0.5,cup,white sugar
+2,Outrageous Chocolate Chip Cookies,0.33,cup,brown sugar
+3,Outrageous Chocolate Chip Cookies,0.5,cup,peanut butter
+4,Outrageous Chocolate Chip Cookies,0.5,teaspoon,vanilla
+5,Outrageous Chocolate Chip Cookies,1.0,each,egg
+6,Outrageous Chocolate Chip Cookies,1.0,cup,flour
+7,Outrageous Chocolate Chip Cookies,1.0,teaspoon,baking soda
+8,Outrageous Chocolate Chip Cookies,0.25,teaspoon,salt
+9,Outrageous Chocolate Chip Cookies,0.5,cup,oats
+10,Outrageous Chocolate Chip Cookies,1.0,cup,chocolate
+0,Virgina's Tuna Salad,1.0,each,egg
+1,Virgina's Tuna Salad,5.0,ounce,tuna
+2,Virgina's Tuna Salad,3.0,tablespoons,mayonnaise
+3,Virgina's Tuna Salad,2.0,stalks,celery
+4,Virgina's Tuna Salad,2.0,tablespoons,relish
+5,Virgina's Tuna Salad,1.0,pinch,black pepper
+0,Good Old Fashioned Pancakes,0.5,cups,flour
+1,Good Old Fashioned Pancakes,1.5,teaspoons,baking powder
+2,Good Old Fashioned Pancakes,1.0,teaspoon,salt
+3,Good Old Fashioned Pancakes,1.0,tablespoon,white sugar
+4,Good Old Fashioned Pancakes,0.25,cups,milk
+5,Good Old Fashioned Pancakes,1.0,each,egg
+6,Good Old Fashioned Pancakes,3.0,tablespoons,butter
+0,Cardamom Maple Salmon,0.5,teaspoons,salt
+1,Cardamom Maple Salmon,1.0,teaspoon,paprika
+2,Cardamom Maple Salmon,1.0,teaspoon,cardamom
+3,Cardamom Maple Salmon,1.0,teaspoon,coriander
+4,Cardamom Maple Salmon,0.5,teaspoon,black pepper
+5,Cardamom Maple Salmon,0.25,cup,grapeseed oil
+6,Cardamom Maple Salmon,2.0,tablespoons,maple syrup
+7,Cardamom Maple Salmon,6.0,pound,salmon
+0,Beef Stroganoff with Ground Beef,2.0,tablespoons,butter
+1,Beef Stroganoff with Ground Beef,1.0,cup,mushrooms
+2,Beef Stroganoff with Ground Beef,0.33,cup,onion
+3,Beef Stroganoff with Ground Beef,1.0,pound,ground beef
+4,Beef Stroganoff with Ground Beef,2.0,tablespoons,flour
+5,Beef Stroganoff with Ground Beef,1.0,teaspoon,garlic powder
+6,Beef Stroganoff with Ground Beef,1.0,teaspoon,salt
+7,Beef Stroganoff with Ground Beef,0.5,teaspoon,paprika
+8,Beef Stroganoff with Ground Beef,0.25,teaspoon,black pepper
+9,Beef Stroganoff with Ground Beef,10.75,ounce,cream of mushroom soup
+10,Beef Stroganoff with Ground Beef,0.75,cup,sour cream
+11,Beef Stroganoff with Ground Beef,1.0,tablespoon,liquid smoke
+12,Beef Stroganoff with Ground Beef,1.0,tablespoon,Worcestershire sauce
+0,Sweet Potato and Venison Shepherd's Pie,1.0,each,sweet potato
+1,Sweet Potato and Venison Shepherd's Pie,2.0,tablespoons,butter
+2,Sweet Potato and Venison Shepherd's Pie,2.0,tablespoons,milk
+3,Sweet Potato and Venison Shepherd's Pie,0.5,teaspoon,salt
+4,Sweet Potato and Venison Shepherd's Pie,0.25,teaspoon,black pepper
+5,Sweet Potato and Venison Shepherd's Pie,0.25,teaspoon,sage
+6,Sweet Potato and Venison Shepherd's Pie,1.0,pinch,nutmeg
+7,Sweet Potato and Venison Shepherd's Pie,0.5,cup,Cheddar cheese
+8,Sweet Potato and Venison Shepherd's Pie,2.0,tablespoons,vegetable oil
+9,Sweet Potato and Venison Shepherd's Pie,8.0,ounce,cremini mushrooms
+10,Sweet Potato and Venison Shepherd's Pie,1.0,each,onion
+11,Sweet Potato and Venison Shepherd's Pie,2.0,each,carrots
+12,Sweet Potato and Venison Shepherd's Pie,1.0,stalk,celery
+13,Sweet Potato and Venison Shepherd's Pie,4.0,cloves,garlic
+14,Sweet Potato and Venison Shepherd's Pie,1.0,each,salt
+15,Sweet Potato and Venison Shepherd's Pie,1.0,pound,venison
+16,Sweet Potato and Venison Shepherd's Pie,1.0,teaspoon,thyme
+17,Sweet Potato and Venison Shepherd's Pie,1.0,teaspoon,oregano
+18,Sweet Potato and Venison Shepherd's Pie,1.0,teaspoon,garlic powder
+19,Sweet Potato and Venison Shepherd's Pie,1.0,teaspoon,onion powder
+20,Sweet Potato and Venison Shepherd's Pie,0.5,teaspoon,black pepper
+21,Sweet Potato and Venison Shepherd's Pie,0.5,teaspoon,sage
+22,Sweet Potato and Venison Shepherd's Pie,2.0,tablespoons,flour
+23,Sweet Potato and Venison Shepherd's Pie,0.66,cup,white wine
+24,Sweet Potato and Venison Shepherd's Pie,1.0,cup,chicken broth
+25,Sweet Potato and Venison Shepherd's Pie,1.0,cup,peas
+0,World's Best Lasagna,1.0,pound,Italian sausage
+1,World's Best Lasagna,0.75,pound,ground beef
+2,World's Best Lasagna,0.5,cup,onion
+3,World's Best Lasagna,2.0,cloves,garlic
+4,World's Best Lasagna,28.0,ounce,crushed tomatoes
+5,World's Best Lasagna,12.0,ounce,tomato paste
+6,World's Best Lasagna,13.0,ounce,tomato sauce
+7,World's Best Lasagna,0.5,cup,water
+8,World's Best Lasagna,2.0,tablespoons,white sugar
+9,World's Best Lasagna,1.5,teaspoons,basil
+10,World's Best Lasagna,0.5,teaspoon,fennel seeds
+11,World's Best Lasagna,1.0,teaspoon,Italian seasoning
+12,World's Best Lasagna,1.5,teaspoons,salt
+13,World's Best Lasagna,0.25,teaspoon,black pepper
+14,World's Best Lasagna,4.0,tablespoons,parsley
+15,World's Best Lasagna,12.0,noodles,lasagna noodles
+16,World's Best Lasagna,16.0,ounces,ricotta cheese
+17,World's Best Lasagna,1.0,each,egg
+18,World's Best Lasagna,0.75,pound,mozzarella cheese
+19,World's Best Lasagna,0.75,cup,Parmesan cheese
+0,Chewy Peanut Butter Brownies,0.5,cup,peanut butter
+1,Chewy Peanut Butter Brownies,0.33,cup,margarine
+2,Chewy Peanut Butter Brownies,0.66,cup,white sugar
+3,Chewy Peanut Butter Brownies,0.5,cup,brown sugar
+4,Chewy Peanut Butter Brownies,2.0,each,egg
+5,Chewy Peanut Butter Brownies,0.5,teaspoon,vanilla
+6,Chewy Peanut Butter Brownies,1.0,cup,flour
+7,Chewy Peanut Butter Brownies,1.0,teaspoon,baking powder
+8,Chewy Peanut Butter Brownies,0.25,teaspoon,salt
+0,Terrific Turkey Chili,3.0,tablespoons,vegetable oil
+1,Terrific Turkey Chili,1.5,pounds,turkey
+2,Terrific Turkey Chili,1.0,ounce,taco seasoning
+3,Terrific Turkey Chili,1.0,teaspoon,coriander
+4,Terrific Turkey Chili,1.0,teaspoon,oregano
+5,Terrific Turkey Chili,1.0,teaspoon,chili pepper
+6,Terrific Turkey Chili,2.0,tablespoons,tomato paste
+7,Terrific Turkey Chili,14.5,ounce,beef broth
+8,Terrific Turkey Chili,7.0,ounce,salsa
+9,Terrific Turkey Chili,14.5,ounce,crushed tomatoes
+10,Terrific Turkey Chili,7.0,ounce,green chile peppers
+11,Terrific Turkey Chili,1.0,each,onion
+12,Terrific Turkey Chili,1.0,each,bell pepper
+13,Terrific Turkey Chili,3.0,each,zucchini
+14,Terrific Turkey Chili,1.0,each,green onions
+15,Terrific Turkey Chili,1.0,cup,sour cream
+16,Terrific Turkey Chili,1.0,cup,Cheddar cheese
+0,Empanadas Salteñas,6.0,tablespoons,water
+1,Empanadas Salteñas,0.5,teaspoon,salt
+2,Empanadas Salteñas,2.0,cups,flour
+3,Empanadas Salteñas,0.25,cup,margarine
+4,Empanadas Salteñas,1.0,teaspoon,vegetable oil
+5,Empanadas Salteñas,2.0,each,potatoes
+6,Empanadas Salteñas,0.25,cup,butter
+7,Empanadas Salteñas,2.0,each,onions
+8,Empanadas Salteñas,2.0,stalks,green onions
+9,Empanadas Salteñas,1.5,each,bell peppers
+10,Empanadas Salteñas,0.66,pound,ground beef
+11,Empanadas Salteñas,1.0,teaspoon,salt
+12,Empanadas Salteñas,0.5,teaspoon,cayenne pepper
+13,Empanadas Salteñas,1.0,teaspoon,cumin
+14,Empanadas Salteñas,1.0,teaspoon,paprika
+15,Empanadas Salteñas,3.0,each,hard-boiled eggs
+0,Greek Salad I,1.0,head,romaine lettuce
+1,Greek Salad I,1.0,each,red onion
+2,Greek Salad I,6.0,ounce,olives
+3,Greek Salad I,1.0,each,bell pepper
+4,Greek Salad I,1.0,each,bell pepper
+5,Greek Salad I,2.0,each,tomatoes
+6,Greek Salad I,1.0,each,cucumber
+7,Greek Salad I,1.0,cup,feta cheese
+8,Greek Salad I,6.0,tablespoons,olive oil
+9,Greek Salad I,1.0,teaspoon,oregano
+10,Greek Salad I,1.0,each,lemon
+11,Greek Salad I,1.0,each,black pepper
+0,Chef John's Sourdough Bread,100.0,grams,sourdough starter
+1,Chef John's Sourdough Bread,250.0,grams,water
+2,Chef John's Sourdough Bread,8.0,grams,salt
+3,Chef John's Sourdough Bread,394.0,grams,flour
+4,Chef John's Sourdough Bread,1.0,each,flour
+5,Chef John's Sourdough Bread,10.0,inch,basket
+0,A Very Popular BBQ Sauce,1.5,cups,brown sugar
+1,A Very Popular BBQ Sauce,1.5,cups,ketchup
+2,A Very Popular BBQ Sauce,0.5,cup,red wine
+3,A Very Popular BBQ Sauce,0.5,cup,water
+4,A Very Popular BBQ Sauce,1.0,tablespoon,Worcestershire sauce
+5,A Very Popular BBQ Sauce,2.5,tablespoons,mustard
+6,A Very Popular BBQ Sauce,2.0,teaspoons,paprika
+7,A Very Popular BBQ Sauce,2.0,teaspoons,salt
+8,A Very Popular BBQ Sauce,1.5,teaspoons,black pepper
+9,A Very Popular BBQ Sauce,2.0,dashes,hot pepper sauce
+0,Apple Blackberry Pie,0.25,cup,butter
+1,Apple Blackberry Pie,1.0,tablespoon,flour
+2,Apple Blackberry Pie,0.25,cup,water
+3,Apple Blackberry Pie,0.5,cup,white sugar
+4,Apple Blackberry Pie,0.5,cup,brown sugar
+5,Apple Blackberry Pie,1.0,teaspoon,lemon
+6,Apple Blackberry Pie,6.0,ounce,blackberries
+7,Apple Blackberry Pie,9.0,inch,crust
+8,Apple Blackberry Pie,4.0,each,apple
