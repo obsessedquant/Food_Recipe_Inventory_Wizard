@@ -1,8 +1,13 @@
 ﻿ingredient_name,ingredient_type
 Anaheim pepper,spice
 apple,fruit
+avocado,fruit
+avocados,fruit
+bacon,protein
 baking powder,general
 baking soda,general
+banana,fruit
+bananas,fruit
 banana pepper,spice
 basil,spice
 basket,general
@@ -13,6 +18,7 @@ bell pepper,spice
 bell_pepper,vegetable
 black pepper,spice
 blackberries,fruit
+bread,grain
 broth_vegetable,general
 butter,dairy
 cardamom,spice
@@ -22,11 +28,15 @@ celery,vegetable
 cheddar cheese,dairy
 Cheddar cheese,dairy
 cheese,dairy
+chicken,protein
 chile pepper,spice
 chili_powder,spice
+chives,spice
 chocolate,general
 cilantro,general
+cinnamon,spice
 coriander,spice
+cornstarch,general
 crust,general
 Cuban pepper,spice
 cucumber,fruit
@@ -38,6 +48,8 @@ garlic,spice
 garlic powder,spice
 grapeseed oil,general
 habanero pepper,spice
+honey,general
+horseradish,spice
 Italian pepper,spice
 Jalapeno pepper,spice
 ketchup,general
@@ -59,6 +71,8 @@ paprika,spice
 parsley,spice
 pea,vegetable
 peas,vegetable
+peanut,nut
+peanuts,nut
 peanut butter,vegetable
 pepper,spice
 poblano pepper,spice
@@ -70,6 +84,8 @@ salmon,protein
 salsa,general
 salt,general
 salt,general
+spinach,vegetable
+strawberries,fruit
 sugar,general
 thyme,spice
 tomatoes_diced,vegetable
@@ -79,5 +95,9 @@ vanilla,general
 venison,protein
 vinegar_red_wine,general
 vinegar_sherry,general
+waffles,protein
+walnut,nut
+walnuts,nut
 water,general
+yogurt,dairy
 zucchini,vegetable

@@ -116,22 +116,22 @@
 14,Terrific Turkey Chili,1.0,each,green onions
 15,Terrific Turkey Chili,1.0,cup,sour cream
 16,Terrific Turkey Chili,1.0,cup,Cheddar cheese
-0,Empanadas SalteÃ±as,6.0,tablespoons,water
-1,Empanadas SalteÃ±as,0.5,teaspoon,salt
-2,Empanadas SalteÃ±as,2.0,cups,flour
-3,Empanadas SalteÃ±as,0.25,cup,margarine
-4,Empanadas SalteÃ±as,1.0,teaspoon,vegetable oil
-5,Empanadas SalteÃ±as,2.0,each,potatoes
-6,Empanadas SalteÃ±as,0.25,cup,butter
-7,Empanadas SalteÃ±as,2.0,each,onions
-8,Empanadas SalteÃ±as,2.0,stalks,green onions
-9,Empanadas SalteÃ±as,1.5,each,bell peppers
-10,Empanadas SalteÃ±as,0.66,pound,ground beef
-11,Empanadas SalteÃ±as,1.0,teaspoon,salt
-12,Empanadas SalteÃ±as,0.5,teaspoon,cayenne pepper
-13,Empanadas SalteÃ±as,1.0,teaspoon,cumin
-14,Empanadas SalteÃ±as,1.0,teaspoon,paprika
-15,Empanadas SalteÃ±as,3.0,each,hard-boiled eggs
+0,Empanadas Salteñas,6.0,tablespoons,water
+1,Empanadas Salteñas,0.5,teaspoon,salt
+2,Empanadas Salteñas,2.0,cups,flour
+3,Empanadas Salteñas,0.25,cup,margarine
+4,Empanadas Salteñas,1.0,teaspoon,vegetable oil
+5,Empanadas Salteñas,2.0,each,potatoes
+6,Empanadas Salteñas,0.25,cup,butter
+7,Empanadas Salteñas,2.0,each,onions
+8,Empanadas Salteñas,2.0,stalks,green onions
+9,Empanadas Salteñas,1.5,each,bell peppers
+10,Empanadas Salteñas,0.66,pound,ground beef
+11,Empanadas Salteñas,1.0,teaspoon,salt
+12,Empanadas Salteñas,0.5,teaspoon,cayenne pepper
+13,Empanadas Salteñas,1.0,teaspoon,cumin
+14,Empanadas Salteñas,1.0,teaspoon,paprika
+15,Empanadas Salteñas,3.0,each,hard-boiled eggs
 0,Greek Salad I,1.0,head,romaine lettuce
 1,Greek Salad I,1.0,each,red onion
 2,Greek Salad I,6.0,ounce,olives
@@ -169,3 +169,103 @@
 6,Apple Blackberry Pie,6.0,ounce,blackberries
 7,Apple Blackberry Pie,9.0,inch,crust
 8,Apple Blackberry Pie,4.0,each,apple
+0,Hot Fudge Ice Cream Bar Dessert,16.0,ounce,chocolate syrup
+1,Hot Fudge Ice Cream Bar Dessert,0.75,cup,peanut butter
+2,Hot Fudge Ice Cream Bar Dessert,19.0,each,ice cream sandwiches
+3,Hot Fudge Ice Cream Bar Dessert,12.0,ounce,frozen whipped topping
+4,Hot Fudge Ice Cream Bar Dessert,1.0,cup,peanuts
+0,Chicken and Waffles,4.0,each,eggs
+1,Chicken and Waffles,0.25,cup,heavy cream
+2,Chicken and Waffles,2.0,tablespoons,cayenne pepper
+3,Chicken and Waffles,1.0,tablespoon,salt
+4,Chicken and Waffles,1.0,tablespoon,black pepper
+5,Chicken and Waffles,2.0,cups,flour
+6,Chicken and Waffles,1.0,cup,cornstarch
+7,Chicken and Waffles,1.0,tablespoon,salt
+8,Chicken and Waffles,1.0,quart,peanut oil
+9,Chicken and Waffles,8.0,each,chicken
+10,Chicken and Waffles,1.0,cup,mayonnaise
+11,Chicken and Waffles,0.25,cup,maple syrup
+12,Chicken and Waffles,2.0,teaspoons,horseradish
+13,Chicken and Waffles,1.0,teaspoon,mustard powder
+14,Chicken and Waffles,12.0,slices,bacon
+15,Chicken and Waffles,8.0,slices,Cheddar cheese
+16,Chicken and Waffles,8.0,each,waffles
+0,Avocado Toast with Grilled Cheese,4.0,slices,bread
+1,Avocado Toast with Grilled Cheese,2.0,each,avocados
+2,Avocado Toast with Grilled Cheese,2.0,tablespoons,red onion
+3,Avocado Toast with Grilled Cheese,2.0,tablespoons,cilantro
+4,Avocado Toast with Grilled Cheese,0.25,cup,Parmesan cheese
+0,Steve's Famous Garlic Home Fries,0.25,cup,margarine
+1,Steve's Famous Garlic Home Fries,32.0,ounce,potatoes
+2,Steve's Famous Garlic Home Fries,1.0,clove,garlic
+3,Steve's Famous Garlic Home Fries,0.25,teaspoon,paprika
+4,Steve's Famous Garlic Home Fries,0.25,teaspoon,salt
+5,Steve's Famous Garlic Home Fries,0.25,teaspoon,black pepper
+6,Steve's Famous Garlic Home Fries,2.0,teaspoons,chives
+0,Power Oatmeal,1.0,cup,oats
+1,Power Oatmeal,1.0,cup,milk
+2,Power Oatmeal,0.5,cup,Greek yogurt
+3,Power Oatmeal,1.0,each,banana
+4,Power Oatmeal,3.0,tablespoons,flax seed meal
+5,Power Oatmeal,2.0,tablespoons,peanut butter
+0,Strawberry Spinach Salad Breakfast Wrap,0.25,cup,walnut
+1,Strawberry Spinach Salad Breakfast Wrap,4.0,ounce,strawberries
+2,Strawberry Spinach Salad Breakfast Wrap,1.0,teaspoon,sugar
+3,Strawberry Spinach Salad Breakfast Wrap,2.0,tablespoons,Greek yogurt
+4,Strawberry Spinach Salad Breakfast Wrap,1.0,teaspoon,lime
+5,Strawberry Spinach Salad Breakfast Wrap,0.5,teaspoon,honey
+6,Strawberry Spinach Salad Breakfast Wrap,1.0,each,bread
+7,Strawberry Spinach Salad Breakfast Wrap,0.75,cup,spinach
+8,Strawberry Spinach Salad Breakfast Wrap,2.0,slices,bacon
+9,Strawberry Spinach Salad Breakfast Wrap,2.0,teaspoons,chia seeds
+0,Egg Pesto Breakfast Wrap,2.0,each,eggs
+1,Egg Pesto Breakfast Wrap,1.5,teaspoons,sour cream
+2,Egg Pesto Breakfast Wrap,0.25,cup,Cheddar cheese
+3,Egg Pesto Breakfast Wrap,2.0,tablespoons,onion
+4,Egg Pesto Breakfast Wrap,1.5,teaspoons,pesto sauce
+5,Egg Pesto Breakfast Wrap,3.0,each,tomatoes
+6,Egg Pesto Breakfast Wrap,1.0,slice,bacon
+7,Egg Pesto Breakfast Wrap,0.5,ounce,artichoke hearts
+8,Egg Pesto Breakfast Wrap,10.0,inch,flour
+9,Egg Pesto Breakfast Wrap,1.0,each,salt and pepper
+0,Green Eggs and Ham Breakfast Sandwich,10.0,ounce,biscuit dough
+1,Green Eggs and Ham Breakfast Sandwich,0.5,pound,bacon
+2,Green Eggs and Ham Breakfast Sandwich,3.0,tablespoons,olive oil
+3,Green Eggs and Ham Breakfast Sandwich,0.5,each,onion
+4,Green Eggs and Ham Breakfast Sandwich,1.0,each,jalapeno pepper
+5,Green Eggs and Ham Breakfast Sandwich,4.0,each,green chile peppers
+6,Green Eggs and Ham Breakfast Sandwich,1.0,teaspoon,salt
+7,Green Eggs and Ham Breakfast Sandwich,1.0,teaspoon,pepper
+8,Green Eggs and Ham Breakfast Sandwich,6.0,each,eggs
+9,Green Eggs and Ham Breakfast Sandwich,0.5,cup,milk
+10,Green Eggs and Ham Breakfast Sandwich,1.0,cup,Monterey Jack cheese
+0,Cinnamon-Accented French Toast,3.0,each,eggs
+1,Cinnamon-Accented French Toast,2.0,teaspoons,white sugar
+2,Cinnamon-Accented French Toast,1.0,teaspoon,milk
+3,Cinnamon-Accented French Toast,1.0,teaspoon,cinnamon
+4,Cinnamon-Accented French Toast,0.25,teaspoon,salt
+5,Cinnamon-Accented French Toast,6.0,slices,bread
+0,Sausage Crescent Rolls,1.0,pound,spicy pork sausage
+1,Sausage Crescent Rolls,8.0,ounce,cream cheese
+2,Sausage Crescent Rolls,16.0,ounce,crescent rolls
+3,Sausage Crescent Rolls,1.0,each,egg
+4,Sausage Crescent Rolls,1.0,tablespoon,poppy seeds
+0,Bronco Burger,5.0,each,jalapeno peppers
+1,Bronco Burger,4.0,pounds,ground beef
+2,Bronco Burger,1.0,each,salt and pepper
+3,Bronco Burger,1.0,each,egg
+4,Bronco Burger,0.25,cup,steak sauce
+5,Bronco Burger,0.25,cup,white onion
+6,Bronco Burger,1.0,teaspoon,hot pepper sauce
+7,Bronco Burger,1.0,pinch,oregano
+8,Bronco Burger,1.0,tablespoon,Worcestershire sauce
+9,Bronco Burger,1.0,teaspoon,salt
+10,Bronco Burger,0.25,cup,corn chips
+11,Bronco Burger,8.0,each,potato hamburger buns
+12,Bronco Burger,8.0,slices,pepperjack cheese
+0,Lunch Box Hot Hot Dogs,1.0,each,hot dog
+1,Lunch Box Hot Hot Dogs,1.0,each,hot dog bun
+2,Lunch Box Hot Hot Dogs,1.0,each,ketchup
+3,Lunch Box Hot Hot Dogs,1.0,each,mustard
+4,Lunch Box Hot Hot Dogs,2.0,tablespoons,Cheddar cheese
