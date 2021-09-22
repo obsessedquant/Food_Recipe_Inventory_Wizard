@@ -1,6 +1,7 @@
 ﻿ingredient_name,ingredient_type
 Anaheim pepper,spice
 apple,fruit
+apples,fruit
 avocado,fruit
 avocados,fruit
 bacon,protein
@@ -21,10 +22,12 @@ blackberries,fruit
 bread,grain
 broth_vegetable,general
 butter,dairy
+buttermilk,dairy
 cardamom,spice
 carrot,vegetable
 carrots,vegetable
 celery,vegetable
+champagne,general
 cheddar cheese,dairy
 Cheddar cheese,dairy
 cheese,dairy
@@ -36,8 +39,11 @@ chocolate,general
 cilantro,general
 cinnamon,spice
 coriander,spice
+corn,vegetable
+cornmeal,general
 cornstarch,general
 crust,general
+crusts,general
 Cuban pepper,spice
 cucumber,fruit
 cumin,spice
@@ -48,6 +54,7 @@ garlic,spice
 garlic powder,spice
 grapeseed oil,general
 habanero pepper,spice
+hazelnuts,nut
 honey,general
 horseradish,spice
 Italian pepper,spice
@@ -56,42 +63,52 @@ ketchup,general
 lemon,fruit
 lime,fruit
 lime_juice,general
+macaroni,protein
 maple syrup,general
 margarine,dairy
 mayonnaise,general
-milk,dairy
 mustard,general
 nutmeg,spice
 oats,grain
 olives,fruit
 onion,vegetable
 onion powder,spice
+orange,fruit
 oregano,spice
 paprika,spice
 parsley,spice
+pastrami,protein
 pea,vegetable
+peach,fruit
+peaches,fruit
 peas,vegetable
 peanut,nut
 peanuts,nut
 peanut butter,vegetable
 pepper,spice
 poblano pepper,spice
+raisins,fruit
 red_onion,vegetable
 relish,general
+rhubarb,vegetable
 rice,grain
+rosemary,spice
 sage,spice
 salmon,protein
 salsa,general
 salt,general
 salt,general
+sauerkraut,general
+shell,general
+shortening,general
 spinach,vegetable
 strawberries,fruit
 sugar,general
 thyme,spice
 tomatoes_diced,vegetable
+tots,vegetable
 tuna,protein
 turkey,protein
-vanilla,general
 venison,protein
 vinegar_red_wine,general
 vinegar_sherry,general
@@ -99,5 +116,6 @@ waffles,protein
 walnut,nut
 walnuts,nut
 water,general
+yeast,general
 yogurt,dairy
 zucchini,vegetable

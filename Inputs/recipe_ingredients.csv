@@ -269,3 +269,218 @@
 2,Lunch Box Hot Hot Dogs,1.0,each,ketchup
 3,Lunch Box Hot Hot Dogs,1.0,each,mustard
 4,Lunch Box Hot Hot Dogs,2.0,tablespoons,Cheddar cheese
+0,Reuben Sandwich,8.0,slices,rye bread
+1,Reuben Sandwich,0.75,cup,thousand island dressing
+2,Reuben Sandwich,16.0,ounce,sauerkraut
+3,Reuben Sandwich,8.0,slices,Swiss cheese
+4,Reuben Sandwich,8.0,slices,pastrami
+5,Reuben Sandwich,0.25,cup,margarine
+0,Barbequed Ribs,4.0,pounds,baby back pork ribs
+1,Barbequed Ribs,4.0,cloves,garlic
+2,Barbequed Ribs,1.0,tablespoon,white sugar
+3,Barbequed Ribs,1.0,tablespoon,paprika
+4,Barbequed Ribs,2.0,teaspoons,salt
+5,Barbequed Ribs,2.0,teaspoons,black pepper
+6,Barbequed Ribs,2.0,teaspoons,chili powder
+7,Barbequed Ribs,2.0,teaspoons,cumin
+8,Barbequed Ribs,0.5,cup,brown sugar
+9,Barbequed Ribs,0.5,cup,cider vinegar
+10,Barbequed Ribs,0.5,cup,ketchup
+11,Barbequed Ribs,0.25,cup,chili sauce
+12,Barbequed Ribs,0.25,cup,Worcestershire sauce
+13,Barbequed Ribs,1.0,tablespoon,lemon juice
+14,Barbequed Ribs,2.0,tablespoons,onion
+15,Barbequed Ribs,0.5,teaspoon,mustard
+16,Barbequed Ribs,1.0,clove,garlic
+0,Best BLT Chicken Panini,4.0,slices,bacon
+1,Best BLT Chicken Panini,1.0,tablespoon,mayonnaise
+2,Best BLT Chicken Panini,4.0,slices,ciabatta bread
+3,Best BLT Chicken Panini,8.0,ounces,chicken
+4,Best BLT Chicken Panini,2.0,slices,Swiss cheese
+5,Best BLT Chicken Panini,2.0,each,leaves lettuce
+6,Best BLT Chicken Panini,4.0,slices,tomato
+7,Best BLT Chicken Panini,1.0,each,cooking spray
+0,Grandma's Iron Skillet Apple Pie,0.5,cup,butter
+1,Grandma's Iron Skillet Apple Pie,1.0,cup,brown sugar
+2,Grandma's Iron Skillet Apple Pie,5.0,each,apples
+3,Grandma's Iron Skillet Apple Pie,27.0,inch,crusts
+4,Grandma's Iron Skillet Apple Pie,1.0,cup,white sugar
+5,Grandma's Iron Skillet Apple Pie,2.0,teaspoons,cinnamon
+6,Grandma's Iron Skillet Apple Pie,0.25,cup,white sugar
+7,Grandma's Iron Skillet Apple Pie,1.0,tablespoon,butter
+0,Philly Cheese Steak Sliders,12.0,ounce,beef
+1,Philly Cheese Steak Sliders,12.0,each,Hawaiian bread rolls
+2,Philly Cheese Steak Sliders,0.5,each,bell pepper
+3,Philly Cheese Steak Sliders,0.5,each,onion
+4,Philly Cheese Steak Sliders,0.25,cup,mayonnaise
+5,Philly Cheese Steak Sliders,8.0,slices,pepper Jack cheese
+6,Philly Cheese Steak Sliders,2.0,tablespoons,butter
+0,Amish Meatloaf,2.0,pounds,ground beef
+1,Amish Meatloaf,2.5,cups,butter-flavored crackers
+2,Amish Meatloaf,1.0,each,onion
+3,Amish Meatloaf,2.0,each,eggs
+4,Amish Meatloaf,0.75,cup,ketchup
+5,Amish Meatloaf,0.25,cup,brown sugar
+6,Amish Meatloaf,2.0,slices,bacon
+7,Amish Meatloaf,1.0,cup,ketchup
+8,Amish Meatloaf,2.0,tablespoons,vinegar
+9,Amish Meatloaf,0.75,teaspoon,salt
+10,Amish Meatloaf,2.0,tablespoons,mustard
+11,Amish Meatloaf,0.5,cup,brown sugar
+0,Chef John's Macaroni and Cheese,16.0,ounce,macaroni
+1,Chef John's Macaroni and Cheese,0.25,cup,butter
+2,Chef John's Macaroni and Cheese,0.25,cup,flour
+3,Chef John's Macaroni and Cheese,0.25,teaspoon,thyme
+4,Chef John's Macaroni and Cheese,0.25,teaspoon,cayenne pepper
+5,Chef John's Macaroni and Cheese,0.13,teaspoon,white pepper
+6,Chef John's Macaroni and Cheese,3.0,cups,milk
+7,Chef John's Macaroni and Cheese,1.0,pinch,nutmeg
+8,Chef John's Macaroni and Cheese,0.25,teaspoon,Worcestershire sauce
+9,Chef John's Macaroni and Cheese,1.0,teaspoon,salt
+10,Chef John's Macaroni and Cheese,3.0,cups,Cheddar cheese
+11,Chef John's Macaroni and Cheese,1.0,teaspoon,mustard
+12,Chef John's Macaroni and Cheese,0.5,cup,bread crumbs
+13,Chef John's Macaroni and Cheese,1.0,tablespoon,butter
+0,Sizzling Steak Fajitas,3.0,pounds,flank or skirt steak
+1,Sizzling Steak Fajitas,1.5,cups,Goya Mojo Criollo
+2,Sizzling Steak Fajitas,1.0,teaspoon,Goya Adobo with Pepper
+3,Sizzling Steak Fajitas,2.0,tablespoons,Goya Extra Virgin Olive Oil
+4,Sizzling Steak Fajitas,1.0,inch,yellow onion
+5,Sizzling Steak Fajitas,2.0,inch,bell peppers
+6,Sizzling Steak Fajitas,1.0,teaspoon,Goya Sazonador Total
+7,Sizzling Steak Fajitas,18.0,ounce,Goya Flour Tortillas
+8,Sizzling Steak Fajitas,12.0,ounce,Goya Guacamole
+9,Sizzling Steak Fajitas,17.6,ounce,Goya Salsa Pico de Gallo
+10,Sizzling Steak Fajitas,1.0,cup,sour cream
+11,Sizzling Steak Fajitas,8.0,ounce,Goya Salsita
+0,Chicago Deep-Dish Pizza,1.33,cups,water
+1,Chicago Deep-Dish Pizza,2.25,teaspoons,yeast
+2,Chicago Deep-Dish Pizza,0.25,cup,olive oil
+3,Chicago Deep-Dish Pizza,0.25,cup,butter
+4,Chicago Deep-Dish Pizza,2.0,teaspoons,white sugar
+5,Chicago Deep-Dish Pizza,1.5,teaspoons,salt
+6,Chicago Deep-Dish Pizza,0.5,cup,cornmeal
+7,Chicago Deep-Dish Pizza,3.75,cups,flour
+8,Chicago Deep-Dish Pizza,2.0,teaspoons,olive oil
+9,Chicago Deep-Dish Pizza,4.0,cups,pizza sauce
+10,Chicago Deep-Dish Pizza,4.0,ounces,provolone cheese
+11,Chicago Deep-Dish Pizza,8.0,ounces,mozzarella cheese
+12,Chicago Deep-Dish Pizza,1.0,pound,Italian sausage
+13,Chicago Deep-Dish Pizza,4.0,ounces,mozzarella cheese
+14,Chicago Deep-Dish Pizza,2.0,ounces,Parmigiano-Reggiano cheese
+15,Chicago Deep-Dish Pizza,1.0,tablespoon,olive oil
+0,Juicy Thanksgiving Turkey,2.0,tablespoons,parsley
+1,Juicy Thanksgiving Turkey,2.0,tablespoons,rosemary
+2,Juicy Thanksgiving Turkey,2.0,tablespoons,sage
+3,Juicy Thanksgiving Turkey,2.0,tablespoons,thyme
+4,Juicy Thanksgiving Turkey,1.0,tablespoon,lemon pepper
+5,Juicy Thanksgiving Turkey,1.0,tablespoon,salt
+6,Juicy Thanksgiving Turkey,15.0,pound,turkey
+7,Juicy Thanksgiving Turkey,2.0,stalks,celery
+8,Juicy Thanksgiving Turkey,1.0,each,orange
+9,Juicy Thanksgiving Turkey,1.0,each,onion
+10,Juicy Thanksgiving Turkey,1.0,each,carrot
+11,Juicy Thanksgiving Turkey,14.5,ounce,chicken broth
+12,Juicy Thanksgiving Turkey,750.0,milliliter,champagne
+0,Tater Tot Taco Casserole,1.0,pound,ground beef
+1,Tater Tot Taco Casserole,1.0,each,onion
+2,Tater Tot Taco Casserole,1.0,clove,garlic
+3,Tater Tot Taco Casserole,1.0,ounce,taco seasoning
+4,Tater Tot Taco Casserole,16.0,ounce,corn
+5,Tater Tot Taco Casserole,12.0,ounce,black beans
+6,Tater Tot Taco Casserole,12.0,ounce,cheese
+7,Tater Tot Taco Casserole,16.0,ounce,tots
+8,Tater Tot Taco Casserole,12.0,ounce,enchilada sauce
+0,Down Home Baked Beans,1.0,pound,bacon
+1,Down Home Baked Beans,56.0,ounce,baked beans
+2,Down Home Baked Beans,12.0,ounce,chili sauce
+3,Down Home Baked Beans,1.0,each,onion
+4,Down Home Baked Beans,2.0,cups,brown sugar
+0,Salmon with Lemon and Dill,1.0,pound,salmon
+1,Salmon with Lemon and Dill,0.25,cup,butter
+2,Salmon with Lemon and Dill,5.0,tablespoons,lemon juice
+3,Salmon with Lemon and Dill,1.0,tablespoon,dill weed
+4,Salmon with Lemon and Dill,0.25,teaspoon,garlic powder
+5,Salmon with Lemon and Dill,1.0,each,salt
+6,Salmon with Lemon and Dill,1.0,each,black pepper
+0,Easy Peach Cobbler,1.0,cup,white sugar
+1,Easy Peach Cobbler,0.5,cup,butter
+2,Easy Peach Cobbler,1.0,cup,flour
+3,Easy Peach Cobbler,1.0,cup,milk
+4,Easy Peach Cobbler,15.0,ounce,peaches
+0,RITZ Hazelnut Gelato Sandwich,14.0,ounce,vanilla bean gelato
+1,RITZ Hazelnut Gelato Sandwich,50.0,each,RITZ Crackers
+2,RITZ Hazelnut Gelato Sandwich,6.0,ounces,chocolate
+3,RITZ Hazelnut Gelato Sandwich,3.0,ounces,hazelnuts
+0,Sam's Famous Carrot Cake,3.0,each,eggs
+1,Sam's Famous Carrot Cake,0.75,cup,buttermilk
+2,Sam's Famous Carrot Cake,0.75,cup,vegetable oil
+3,Sam's Famous Carrot Cake,1.5,cups,white sugar
+4,Sam's Famous Carrot Cake,2.0,teaspoons,vanilla extract
+5,Sam's Famous Carrot Cake,2.0,teaspoons,cinnamon
+6,Sam's Famous Carrot Cake,0.25,teaspoon,salt
+7,Sam's Famous Carrot Cake,2.0,cups,flour
+8,Sam's Famous Carrot Cake,2.0,teaspoons,baking soda
+9,Sam's Famous Carrot Cake,2.0,cups,carrots
+10,Sam's Famous Carrot Cake,1.0,cup,flaked coconut
+11,Sam's Famous Carrot Cake,1.0,cup,walnuts
+12,Sam's Famous Carrot Cake,8.0,ounce,pineapple with juice
+13,Sam's Famous Carrot Cake,1.0,cup,raisins
+0,Rhubarb Cheesecake,1.0,cup,flour
+1,Rhubarb Cheesecake,0.25,cup,white sugar
+2,Rhubarb Cheesecake,0.5,cup,butter
+3,Rhubarb Cheesecake,3.0,cups,rhubarb
+4,Rhubarb Cheesecake,0.5,cup,white sugar
+5,Rhubarb Cheesecake,1.0,tablespoon,flour
+6,Rhubarb Cheesecake,16.0,ounce,cream cheese
+7,Rhubarb Cheesecake,0.5,cup,white sugar
+8,Rhubarb Cheesecake,2.0,each,eggs
+9,Rhubarb Cheesecake,1.0,cup,sour cream
+10,Rhubarb Cheesecake,2.0,tablespoons,white sugar
+11,Rhubarb Cheesecake,1.0,teaspoon,vanilla extract
+0,Boston Cream Pie II,1.25,cups,flour
+1,Boston Cream Pie II,1.0,cup,white sugar
+2,Boston Cream Pie II,1.5,teaspoons,baking powder
+3,Boston Cream Pie II,0.5,teaspoon,salt
+4,Boston Cream Pie II,0.75,cup,milk
+5,Boston Cream Pie II,0.33,cup,shortening
+6,Boston Cream Pie II,1.0,each,egg
+7,Boston Cream Pie II,1.0,teaspoon,vanilla extract
+8,Boston Cream Pie II,0.33,cup,white sugar
+9,Boston Cream Pie II,2.0,tablespoons,cornstarch
+10,Boston Cream Pie II,0.13,teaspoon,salt
+11,Boston Cream Pie II,1.5,cups,milk
+12,Boston Cream Pie II,2.0,each,egg
+13,Boston Cream Pie II,2.0,teaspoons,vanilla extract
+14,Boston Cream Pie II,2.0,ounce,chocolate
+15,Boston Cream Pie II,3.0,tablespoons,butter
+16,Boston Cream Pie II,1.0,cup,sugar
+17,Boston Cream Pie II,0.75,teaspoon,vanilla extract
+18,Boston Cream Pie II,2.0,tablespoons,water
+0,Creamy Coconut Cake,16.0,ounce,white cake mix
+1,Creamy Coconut Cake,14.0,ounce,cream of coconut
+2,Creamy Coconut Cake,14.0,ounce,condensed milk
+3,Creamy Coconut Cake,16.0,ounce,frozen whipped topping
+4,Creamy Coconut Cake,10.0,ounce,flaked coconut
+0,Banana Pudding IV,8.0,ounce,cream cheese
+1,Banana Pudding IV,14.0,ounce,condensed milk
+2,Banana Pudding IV,5.0,ounce,vanilla pudding mix
+3,Banana Pudding IV,3.0,cups,milk
+4,Banana Pudding IV,1.0,teaspoon,vanilla extract
+5,Banana Pudding IV,8.0,ounce,frozen whipped topping
+6,Banana Pudding IV,4.0,each,bananas
+7,Banana Pudding IV,6.0,ounce,vanilla wafers
+0,Chocolate Pie,9.0,inch,shell
+1,Chocolate Pie,5.0,ounce,chocolate pudding mix
+2,Chocolate Pie,2.0,cups,milk
+3,Chocolate Pie,8.0,ounce,frozen whipped topping
+4,Chocolate Pie,0.25,cup,chocolate
+0,MMMMM... Brownies,0.5,cup,white sugar
+1,MMMMM... Brownies,2.0,tablespoons,butter
+2,MMMMM... Brownies,2.0,tablespoons,water
+3,MMMMM... Brownies,1.5,cups,chocolate chips
+4,MMMMM... Brownies,2.0,each,eggs
+5,MMMMM... Brownies,0.5,teaspoon,vanilla extract
+6,MMMMM... Brownies,0.66,cup,flour
+7,MMMMM... Brownies,0.25,teaspoon,baking soda
+8,MMMMM... Brownies,0.5,teaspoon,salt
